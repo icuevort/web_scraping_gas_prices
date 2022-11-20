@@ -5,3 +5,5 @@ UOC, Master en Ciencia de Datos, Tipologia de los datos, Practica 1
 * Imanol Miguez Quintela.
 * Ivan Cuevas Ortin.
 
+## Documentos
+* Memoria: justificion de la importancia de los datos elegidos para la practica, website seleccionada para la extraccion de datos, y pasos seguidos durante el web scrapping
